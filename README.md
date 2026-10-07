@@ -155,3 +155,4 @@ Software Developer interested in **Python, bioinformatics, data analysis, and th
 
 - **GitHub:** https://github.com/yoelysiwiti
 - **Live Application:** https://webdev-siwiti.onrender.com/
+- **LinkedIn:** www.linkedin.com/in/yoeli-siwiti-a7b354441
